@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+  margin-top: 100px;
+  color: blue;
+}
+.row{
+  margin: 50px;
+}
+li{
+  float:left;
+}
+ul {
+  list-style-type: none;
+  /* margin: 0;
+  padding: 0; */
+  background-color:white;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  /* display: block; */
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.content{
+
+  margin-left: 50px;
+  padding-bottom: 30px;
+
+}
+.container{
+  margin-left: 50px;
+  margin-top: 130px;
+  padding: 30px;
+}
+p{
+  margin-left: 50px;
+}
+.submit{
+  margin-left: 50px;
+  background: red;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  padding: 10px;
+}
+h3{
+  margin-left: 170px;
+}
+
